@@ -1,0 +1,16 @@
+$(function(){
+
+  alert("olá mundo");
+  
+ });
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+   
